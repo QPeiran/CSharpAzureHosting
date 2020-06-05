@@ -1,4 +1,4 @@
-# CSharpAzureHosting
+# CSharpAzureHosting (deprecated -- moved the codebase to Azure DevOps)
 Immigrating cloud project from GCP to Azure
 
 
